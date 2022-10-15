@@ -1,4 +1,4 @@
-# What is the least number of coins for change?
+# 동전의 개수를 가장 적게하여 거스름돈을 거슬러주어라
 
 # n is the amount of change
 n = 1260
