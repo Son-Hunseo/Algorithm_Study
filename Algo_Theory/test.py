@@ -1,2 +1,3 @@
-for i in range(5):
-    print('k', end=' ')
+graph = [list(map(int, input())) for _ in range(5)]
+
+print(graph)
